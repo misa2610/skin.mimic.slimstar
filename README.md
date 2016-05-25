@@ -1,6 +1,6 @@
 # Mimic Slimstar
 Modified version of Kodi 14 (Helix) Mimic skin<br />
-Base skin author: https://github.com/bryanbrazil
+Base skin author: bryanbrazil
 
 Music slim list view:
 ![slim-list] (http://i.imgur.com/DQsT3Vr.png)
